@@ -47,6 +47,12 @@
   <p> The 200 meter race is often grouped together with the 100m. They operate on the same principles, focusing on absolute power and fine-tuned technique. Oftentimes, runners who focus on the 100m will run the 200m as a secondary race. However, the next interval of sprint races, the 400m, is a vastly different frontier.</p>
 <hr></hr>
 <!-- 400 meter race--> 
-  
+  <img src="https://live.staticflickr.com/8077/8311707688_2292a3cfc9_b.jpg" alt="A 400m race is a full run around a track" width="312" height="167">
+  <p>(Photo by allyhook)</p>
+  <p>The 400m race's defining feature is its simplicity: a full revolution around a track. However, its defining difference from the shorter 100m and 200m races is its length. It's not a distance race; it's over in less than a minute. It's not a sprint either; it's too long to be a quantifier of top speed. It's something in the middle, formally known as a 'long sprint', a blend of speed and endurance. This deadly combination requires a delicate balance, leading many to consider the 400m race as the <strong>hardest event in track and field</strong>.</p>
+  <h5>The Start</h5>
+  <h5>The Glide</h5>
+  <h5>The Curve</h5>
+  <h5>Hell on Earth</h5>
 </body>
 </html>
