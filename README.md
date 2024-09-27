@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   
 <head>
@@ -27,7 +26,7 @@
     The Start
   </h5>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2018_DM_Leichtathletik_-_100_Meter_Lauf_Maenner_-_by_2eight_-_DSC7559.jpg/800px-2018_DM_Leichtathletik_-_100_Meter_Lauf_Maenner_-_by_2eight_-_DSC7559.jpg?20180727231916." width="312" height="167">
-  <p font-size: 100px;> 
+  <p> 
     (Photo by Stefan Brending)
   </p>
   <p>
