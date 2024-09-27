@@ -44,7 +44,7 @@
 
   <h5> 200m </h5>
   <p> The 200 meter race is often grouped together with the 100m. They operate on the same principles, focusing on absolute power and fine-tuned technique. Oftentimes, runners who focus on the 100m will run the 200m as a secondary race. However, the next interval of sprint races, the 400m, is a vastly different frontier.</p>
-<hr></hr>
+<hr>
 <!-- 400 meter race--> 
   <img src="https://live.staticflickr.com/8077/8311707688_2292a3cfc9_b.jpg" alt="A 400m race is a full run around a track" width="312" height="167">
   <p>(Photo by allyhook)</p>
