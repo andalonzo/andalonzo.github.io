@@ -2,9 +2,7 @@
   
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>
-    I like to run in circles
-  </title>
+  <title> I like to run in circles </title>
 </head> 
 <body>
   <h1 align="center">
