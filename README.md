@@ -65,6 +65,8 @@
   <h5>The Curve</h5>
     <p>Covering the 200-300 meters is the back curve. This phase is characterized by its buildup to the final stretch; after a straightaway of gliding, your goal on the curve is to slowly put more effort and speed into each step. The arms become useful here, as using wide swings can help you maintain speed and build up force.</p>
   <h5>Hell on Earth</h5>
-  <p>The final 100 meters of the 400m is widely accepted as the worst pain a runner can feel. Because ATP ran out way back at the start, the body relies on anaerobic methods to produce energy, which produces lactic acid as a byproduct. This substance burns your muscles and makes each step heavier than the last, both figuratively and literally. This point in the races marks the point where it's no longer a physical battle for victory, but a mental battle to survive until the end.</p>
+  <p>The final 100 meters of the 400m is widely accepted as the worst pain a runner can feel. Because ATP ran out way back at the start, the body relies on anaerobic methods to produce energy, which produces lactic acid as a byproduct. This substance burns your muscles and makes each step heavier than the last, both figuratively and literally. This stage in the race marks the point where it's no longer a physical battle for victory, but a mental battle to survive until the end.</p>
+  <hr></hr>
+  <p>If you would like to watch some of these events' greatest races (and some of my personal favorites), click on these links to watch <a href="https://youtu.be/gW0y6K6c6Jw?si=yyoq-r5rkI7LucD8" target="_blank">Noah Lyle's 100m victory</a> or <a href="https://youtu.be/9n5qEKIW5DQ?si=kyObz6uY3ZdpwHwE" target="_blank">Quincy Hall's demonstration of the pain of a 400m</a> at the 2024 Summer Olympics! </p>
 </body>
 </html>
